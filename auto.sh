@@ -1,5 +1,5 @@
 #!/bin/bash
->orden.txt
+>datos.txt
 >salida.txt
 # Paso 1: Recorrer cada archivo 1.txt a 5.txt
 for i in {1..5}
